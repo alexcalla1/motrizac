@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1035521440912",
+    "project_id": "band-crud",
+    "storage_bucket": "band-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035521440912:android:ec9137f38d71f8825cac15",
+        "android_client_info": {
+          "package_name": "com.example.proyectoband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035521440912-pk0nkgvituqlibnrrf3dkthph1jqugcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLHrCBP8ONzV2sYjf4wSejvL4wowhVcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035521440912-le82ha4lieuebsd131sn3f9ubqog7dme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035521440912-6u9fc073ir2arppv3dptgfrbs7o073jd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectoband"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
