@@ -1,10 +1,10 @@
-# proyectoband
+# Motrizac
 
-A new Flutter project.
+A flutter proyect with firebase an IA tecnology
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## 
+Alexander Calla Gamboa
+Chirstopher Avendaño Llanque
 
 A few resources to get you started if this is your first Flutter project:
 
